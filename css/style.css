@@ -1,0 +1,328 @@
+.body {
+    position: relative;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    z-index: 2;
+}
+
+.navbar-brand {
+    margin-left: -35px;
+}
+
+.nav-link {
+    font-size: 16px;
+    color: #ffff !important;
+    font-weight: 800;
+    margin-left: 15px;
+}
+
+.shape-hero {
+    position: absolute;
+    top: 0;
+    right: 0;
+    height: 98vh;
+    width: 700px;
+}
+
+.text-1 {
+    font-size: 50px;
+    font-weight: 800;
+    line-height: 80px;
+    color: #094C84;
+    margin-top: 80px;
+}
+
+.text-2 {
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 37.5px;
+    margin-top: 50px;
+    color: #44635F;
+}
+
+.btn-hero {
+    width: 200px;
+    height: 70px;
+    border: none;
+    border-radius: 12px;
+    background-color: #306879;
+    margin-left: 100px;
+    margin-top: 20px;
+}
+
+.btn-hero a {
+    color: #ffff !important;
+    font-weight: 800;
+}
+
+.img-hero {
+    width: 600px;
+    height: 550px;
+    margin-left: 59px;
+    margin-top: -100px;
+}
+
+.menu-1 {
+    font-weight: 600;
+    font-size: 45px;
+    margin-left: 500px;
+    margin-top: 100px;
+}
+
+.master-box {
+    margin-top: 144px;
+}
+
+.about-img-1 {
+    width: 520px;
+    height: 350px;
+    margin-right: 10px;
+    border-radius: 10px;
+    filter: drop-shadow(0px 10px 10px rgba(0, 0, 0, 0.5));
+}
+
+.about-img-2 {
+    width: 520px;
+    height: 350px;
+    margin-left: 50px;
+    border-radius: 10px;
+    filter: drop-shadow(0px 10px 10px rgba(0, 0, 0, 0.5));
+}
+
+.text-about {
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 40px;
+    text-align: center;
+    margin-top: 124px;
+}
+
+.master-circle {
+    display: flex;
+    margin-top: 77px;
+    margin-left: 315px;
+}
+
+.circle-1 {
+    width: 77px;
+    height: 72px;
+    background-color: #56CFA4;
+    border-radius: 50%;
+    margin-left: 61px;
+}
+
+.circle-2 {
+    width: 77px;
+    height: 72px;
+    background-color: #F3D588;
+    border-radius: 50%;
+    margin-left: 61px;
+}
+
+.circle-3 {
+    width: 77px;
+    height: 72px;
+    background-color: #E17474;
+    border-radius: 50%;
+    margin-left: 61px;
+}
+
+.menu-2 {
+    font-weight: 600;
+    font-size: 45px;
+    margin-left: 560px;
+    margin-top: 100px;
+}
+
+.card {
+    width: 250px;
+    height: 600px;
+    box-shadow: 0px 10px 8px rgba(0, 0, 0, 0.25);
+    border-radius: 0px 0px 15px 15px;
+    position: relative;
+    margin-right: 30px;
+}
+
+.card-sampul {
+    width: 250px;
+    height: 324px;
+    background: #51D2B3;
+    border-radius: 0px 0px 20px 20px;
+    position: relative;
+}
+
+.img-service {
+    position: absolute;
+    top: 35%;
+    left: 20%;
+}
+
+.card-body p {
+    color: #808080;
+}
+
+.menu-3 {
+    font-weight: 600;
+    font-size: 45px;
+    margin-left: 585px;
+    margin-top: 100px;
+}
+
+.img-project {
+    width: 280px;
+    height: 300px;
+    filter: drop-shadow(10px 10px 10px rgba(0, 0, 0, 0.25));
+    border-radius: 20px;
+}
+
+.img-proj {
+    position: absolute;
+    top: 0;
+    left: 102px;
+    color:#077887;
+}
+
+.img-proj-2 {
+    position: absolute;
+    top: 0;
+    left: 500px;
+    color:#077887;
+}
+
+.img-proj-3 {
+    position: absolute;
+    top: 0;
+    left: 890px;
+    color:#077887;
+}
+
+.text-p1 {
+    margin-top: 30px;
+    margin-left: -120px;
+    color: #808080;
+}
+
+.btn-req {
+    background-color: #ffff;
+    border: 2px solid #9896ED;
+    border-radius: 25px;
+    font-weight: 800;
+    color: #56CFA4;
+    width: 158px;
+    height: 49px;
+    margin-left: 60px;
+    margin-top: 34px;
+}
+
+.box {
+    margin-top: 700px;
+}
+
+.menu-4 {
+    font-weight: 600;
+    font-size: 45px;
+    margin-left: 545px;
+    margin-top: 700px;
+}
+
+.sosmed {
+    width: 547px;
+    height: 568px;
+    background: #65CDD3;
+    border-radius: 15px;
+}
+
+.message {
+    width: 573px;
+    height: 658px;
+    border: 2px solid #56CFA4;
+    border-radius: 15px;
+}
+
+.text-sosmed {
+    font-weight: 500;
+    color: #ffff;
+    position: relative;
+    left: 200px;
+    top: 20px;
+}
+
+.sos-text {
+    font-weight: 500;
+    color: #ffff;
+    font-size: 24px;
+    margin-left: 20px;
+}
+
+.text-message {
+    font-weight: 500;
+    color: #000;
+    margin-left: 180px;
+    margin-top: 20px;
+}
+
+.form label {
+    font-size: 25px;
+    color: black;
+    margin-bottom: 20px;
+}
+
+.form input {
+    width: 500px;
+    height: 45px;
+    border: 1px solid #677071;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+
+.form textarea{
+    border: 1px solid #677071;
+    border-radius: 5px; 
+}
+
+.send {
+    width: 150px;
+    height: 50px;
+    background: #ADDFDC;
+    border-radius: 20px;
+    border: none;
+    font-size: 20px;
+    color: #ffff;
+    font-weight: bold;
+    margin-top: 50px;
+    margin-left: 350px;
+}
+
+.footer {
+    width: 100%;
+    height: 400px;
+    background-color: #EAEAEA;
+}
+
+.logo-footer {
+    margin-left: -27px;
+}
+
+.maps-black {
+    margin: 0;
+}
+
+.alamat {
+    font-size: 18px;
+    color: #686A69;
+    margin-left: 20px;
+    margin-top: -5px;
+}
+
+.text-ijo {
+    color: #0F6D57;
+    margin-top: 20px;
+}
+
+.ft {
+    margin-top: 90px !important;
+}
